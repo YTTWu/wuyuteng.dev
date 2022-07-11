@@ -1,0 +1,353 @@
+/* .Title {
+  text-align: left;
+  position: absolute;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+#App-header {
+  vertical-align: top;
+  text-align: left;
+  color: #145794;
+  font-size: 100px;
+  float: left;
+  margin-top: -200px;
+  margin-left: 10px;
+}
+
+#App-subheader {
+  color: #145794;
+  vertical-align: top;
+  text-align: left;
+  font-size: 20px;
+  float: left;
+  margin-top: -80px;
+}
+
+#App-header-line{
+  background-color: #E5DC8B;
+  width: 1000px;
+  height: 10px;
+  border:none;
+  text-align: left;
+  margin-top: 100px;
+  position: relative;
+  top: 15px;
+  left: -420px;
+}
+
+.App-link {
+  color: #61dafb;
+} */
+
+/* @media all and (max-width: 1000px)
+{
+  body {
+    width: 0px;
+    color: red;
+  }
+} */
+
+/* @keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+#Title
+{
+  position:absolute;
+  
+}
+
+#App-header 
+{
+  vertical-align: top;
+  text-align: left;
+  color: #145794;
+  font-size: 30px;
+  float: left;
+  margin-left:5px;
+}
+
+#App-subheader
+{
+  float: left;
+  color: #145794;
+  font-size: 6px;
+  margin-top: 30px;
+
+}
+
+#App-license-header
+{
+  float: left;
+  color: #1563BE;
+  margin-top: 40px;
+  margin-left: 20px;
+  font-size: 10px;
+}
+
+#App-header-line1{
+  background-color: #E5DC8B;
+  width: 270px;
+  height: 2px;
+  border:none;
+  text-align: left;
+  position: relative;
+  top: 52px;
+  margin-left: 27px;
+}
+#App-header-line2{
+  background-color: #E5DC8B;
+  width: 187px;
+  height: 2px;
+  border:none;
+  text-align: left;
+  position: relative;
+  top: 52px;
+  margin-left: 110px;
+  margin-top:2px;
+}
+
+#App-idPhoto
+{
+  width: 100px;
+}
+
+#App-bear
+  {
+    margin-left: 30px; 
+    margin-top:15px; 
+    width:80px;
+    
+  }
+
+#App-first-name-title
+{
+  color: #1563BE;
+  float:'left';
+  font-size: 11px;
+  margin-top: 52px;
+}
+
+#App-first-name
+{
+  color:black;
+  font-size: 12px;
+  margin-left: 3px;
+}
+
+#App-info-title
+{
+  color: #1563BE;
+  float:'left';
+  font-size: 11px;
+}
+
+#App-info-general
+{
+  color:black;
+  font-size: 12px;
+  margin-left: 3px;
+}
+
+#App-icon-general
+{
+  width: 33px;
+  height: 33px;
+}
+
+#App-icon-resume
+{
+  width: 35px;
+  height: 33px;
+}
+
+#App-extra-info-title
+{
+  color: #1563BE;
+  float:'left';
+  font-size: 11px;
+  margin-left: 10px;
+}
+
+#App-extra-info-general
+{
+  color:black;
+  font-size: 12px;
+  margin-left: 3px;
+}
+
+#App-signature
+{
+  width:100px;
+  height:50px;
+  margin-left: -10px;
+  padding-right: 100px;
+}
+
+#App-bottom-line
+{
+  background-color: #E5DC8B;
+  width: 380px;
+  height: 2px;
+  border:none;
+  text-align: left;
+  position: relative;
+  top: 52px;
+  margin-left: 5px;
+  margin-top: -32px;
+}
+
+@media all and (min-width: 600px)
+{
+  #App
+  {
+    margin-left: 10px;
+  }
+  #App-header 
+  {
+    vertical-align: top;
+    text-align: left;
+    color: #145794;
+    font-size: 50px;
+    float: left;
+    margin-left:5px;
+  }
+  #App-subheader
+  {
+    float: left;
+    color: #145794;
+    font-size: 10px;
+    margin-top: 50px;
+  }
+  #App-header-line1{
+    background-color: #E5DC8B;
+    width: 1607px;
+    height: 3px;
+    border:none;
+    text-align: left;
+    position: relative;
+    top: 85px;
+    margin-left: 27px;
+  }
+  #App-header-line2{
+    background-color: #E5DC8B;
+    width: 1369px;
+    height: 3px;
+    border:none;
+    text-align: left;
+    position: relative;
+    top: 85px;
+    margin-left: 265px;
+  }
+  #App-license-header
+  {
+    float: left;
+    color: #1563BE;
+    margin-top: 60px;
+    margin-left: 600px;
+    font-size: 20px;
+  }
+  #App-bear
+  {
+    margin-left: 1400px; 
+    margin-top:-110px; 
+    width: 270px;
+  }
+  #App-idPhoto
+  {
+    width: 250px;
+    margin-top: 35px;
+  }
+  #App-first-name-title
+  {
+    color: #1563BE;
+    float:'left';
+    font-size: 30px;
+    margin-top: 92px;
+  }
+
+  #App-first-name
+  {
+    color:black;
+    font-size: 32px;
+    margin-left: 6px;
+  }
+
+  #App-info-title
+  {
+    color: #1563BE;
+    float:'left';
+    font-size: 30px;
+  }
+
+  #App-info-general
+  {
+    color:black;
+    font-size: 32px;
+    margin-left: 6px;
+  }
+
+  #App-icon-general
+  {
+    width: 66px;
+    height: 66px;
+  }
+
+  #App-icon-resume
+  {
+    width: 70px;
+    height: 66px;
+  }
+
+  #App-extra-info-title
+  {
+    color: #1563BE;
+    float:'left';
+    font-size: 30px;
+    margin-left: 20px;
+  }
+
+  #App-extra-info-general
+  {
+    color:black;
+    font-size: 12px;
+    margin-left: 3px;
+  }
+
+  #App-signature
+  {
+    width:200px;
+    height:100px;
+    margin-left: -670px;
+    padding-right: 800px;
+    margin-top: 100px;
+  }
+
+  #App-bottom-line
+  {
+    background-color: #E5DC8B;
+    width: 1870px;
+    height: 4px;
+    border:none;
+    text-align: left;
+    position: relative;
+    top: 160px;
+    margin-left: 10px;
+    margin-top: -32px;
+  }
+
+}
