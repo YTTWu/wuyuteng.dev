@@ -9,6 +9,7 @@ import facebook_icon from './pictures/Facebook.png';
 import instagram_icon from './pictures/Instagram.png';
 import signature_image from './pictures/signature.png';
 import './App.css';
+import React, { Component }  from 'react';
 
 function App() {
   return (
