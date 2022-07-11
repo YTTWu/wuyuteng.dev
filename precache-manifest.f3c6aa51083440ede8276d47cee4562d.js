@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "2d798e6735448da8b58f",
-    "url": "/wuyuteng.dev/static/css/main.2e2f22f1.chunk.css"
+    "revision": "5ce66a6f830014f2ab51",
+    "url": "/wuyuteng.dev/static/css/main.0042b796.chunk.css"
   },
   {
-    "revision": "2d798e6735448da8b58f",
+    "revision": "5ce66a6f830014f2ab51",
     "url": "/wuyuteng.dev/static/js/main.6a14e480.chunk.js"
   },
   {
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/wuyuteng.dev/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "f5391be6a3a19ccc2163288b25046dd7",
+    "revision": "a95b3a03f978050842e7b94c6bcac135",
     "url": "/wuyuteng.dev/index.html"
   }
 ];

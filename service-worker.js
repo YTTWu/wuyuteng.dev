@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/wuyuteng.dev/precache-manifest.b26ff9a28b49ad7a992ec2683dee76d5.js"
+  "/wuyuteng.dev/precache-manifest.f3c6aa51083440ede8276d47cee4562d.js"
 );
 
 workbox.clientsClaim();
